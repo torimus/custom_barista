@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"barista.run/bar"
+	"github.com/soumya92/barista/bar"
 )
 
 const NUM_LOCK = 16

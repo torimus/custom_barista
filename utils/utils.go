@@ -4,7 +4,7 @@ import (
 	"os/user"
 	"path/filepath"
 
-	"barista.run/pango"
+	"github.com/soumya92/barista/pango"
 )
 
 var Spacer = pango.Text(" ").XXSmall()

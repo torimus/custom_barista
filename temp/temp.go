@@ -3,11 +3,11 @@ package temp
 import (
 	"time"
 
-	"barista.run/bar"
-	"barista.run/colors"
-	"barista.run/modules/cputemp"
-	"barista.run/outputs"
-	"barista.run/pango"
+	"github.com/soumya92/barista/bar"
+	"github.com/soumya92/barista/colors"
+	"github.com/soumya92/barista/modules/cputemp"
+	"github.com/soumya92/barista/outputs"
+	"github.com/soumya92/barista/pango"
 	"github.com/glebtv/custom_barista/utils"
 	"github.com/martinlindhe/unit"
 )

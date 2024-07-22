@@ -4,11 +4,11 @@ import (
 	"time"
 
 	"github.com/glebtv/custom_barista/utils"
-	"barista.run/bar"
-	"barista.run/modules/weather"
-	"barista.run/modules/weather/openweathermap"
-	"barista.run/outputs"
-	"barista.run/pango"
+	"github.com/soumya92/barista/bar"
+	"github.com/soumya92/barista/modules/weather"
+	"github.com/soumya92/barista/modules/weather/openweathermap"
+	"github.com/soumya92/barista/outputs"
+	"github.com/soumya92/barista/pango"
 )
 
 func Get(cityId string) *weather.Module {

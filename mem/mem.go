@@ -1,12 +1,12 @@
 package mem
 
 import (
-	"barista.run/format"
-	"barista.run/bar"
-	"barista.run/colors"
-	"barista.run/modules/meminfo"
-	"barista.run/outputs"
-	"barista.run/pango"
+	"github.com/soumya92/barista/format"
+	"github.com/soumya92/barista/bar"
+	"github.com/soumya92/barista/colors"
+	"github.com/soumya92/barista/modules/meminfo"
+	"github.com/soumya92/barista/outputs"
+	"github.com/soumya92/barista/pango"
 )
 
 // Get Create a module

@@ -3,10 +3,10 @@ package batt
 import (
 	"time"
 
-	"barista.run/bar"
-	"barista.run/colors"
-	"barista.run/modules/battery"
-	"barista.run/outputs"
+	"github.com/soumya92/barista/bar"
+	"github.com/soumya92/barista/colors"
+	"github.com/soumya92/barista/modules/battery"
+	"github.com/soumya92/barista/outputs"
 )
 
 func Get() bar.Module {

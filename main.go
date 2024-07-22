@@ -5,12 +5,12 @@
 package main
 
 import (
-	barista "barista.run"
-	"barista.run/bar"
-	"barista.run/colors"
-	"barista.run/modules/counter"
-	"barista.run/pango/icons/material"
-	"barista.run/pango/icons/typicons"
+	barista "github.com/soumya92/barista"
+	"github.com/soumya92/barista/bar"
+	"github.com/soumya92/barista/colors"
+	"github.com/soumya92/barista/modules/counter"
+	"github.com/soumya92/barista/pango/icons/material"
+	"github.com/soumya92/barista/pango/icons/typicons"
 	"github.com/glebtv/custom_barista/batt"
 	"github.com/glebtv/custom_barista/dsk"
 	"github.com/glebtv/custom_barista/kbdlayout"

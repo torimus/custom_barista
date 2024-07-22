@@ -6,12 +6,12 @@ import (
 	"strings"
 	"time"
 
-	"barista.run/format"
-	"barista.run/bar"
-	"barista.run/modules/diskio"
-	"barista.run/modules/diskspace"
-	"barista.run/outputs"
-	"barista.run/pango"
+	"github.com/soumya92/barista/format"
+	"github.com/soumya92/barista/bar"
+	"github.com/soumya92/barista/modules/diskio"
+	"github.com/soumya92/barista/modules/diskspace"
+	"github.com/soumya92/barista/outputs"
+	"github.com/soumya92/barista/pango"
 	"github.com/glebtv/custom_barista/utils"
 )
 

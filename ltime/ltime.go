@@ -3,12 +3,12 @@ package ltime
 import (
 	"time"
 
-	"barista.run/bar"
-	"barista.run/base/click"
-	"barista.run/colors"
-	"barista.run/modules/clock"
-	"barista.run/outputs"
-	"barista.run/pango"
+	"github.com/soumya92/barista/bar"
+	"github.com/soumya92/barista/base/click"
+	"github.com/soumya92/barista/colors"
+	"github.com/soumya92/barista/modules/clock"
+	"github.com/soumya92/barista/outputs"
+	"github.com/soumya92/barista/pango"
 )
 
 func Get() bar.Module {
